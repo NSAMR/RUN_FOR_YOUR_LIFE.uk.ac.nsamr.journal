@@ -1,2 +1,2 @@
-fc-locale-*.php
-fc-locale-list.php
+*
+.gitignore
